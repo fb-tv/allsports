@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:1
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTINF:1,
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:C3:C9:45&stream=657146&extension=ts&play_token=SlQsc73YxI
